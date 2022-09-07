@@ -1,0 +1,56 @@
+.Title {
+    font-family: 'Noto Sans', sans-serif;
+    color:#EFF0EE;
+    
+}
+.SubTitle {
+    font-family: 'Cormorant SC', serif;
+    color: #EFF0EE;
+}
+.Text {
+    font-family: 'Nunito Sans', sans-serif;
+}
+Body {
+    background-color:#EFF0EE;
+    line-height: 25px;
+}
+
+.nav {
+    width: 100%;
+    color: black;
+    font-size: 30px;
+    background-color:#8EA38C;
+    box-shadow: 0px 0px 4px #271F24;
+    padding: 10px;
+    text-indent: 50px;
+    margin-left: -10px;
+    max-width: max-content;
+  }
+  a:link, a:visited{
+    background-color:#271F24;
+    color:#EFF0EE;
+    border-style: solid;
+    border-color:#EFF0EE;
+    border-radius: 5px;
+    padding: 7px 50px;
+    text-align: center;
+    text-overflow: initial;
+    display: inline-block;
+    box-shadow: 0px 0px 4px#271F24;
+}
+
+.Border {
+    margin-left: 50px;
+    border-radius: 10px;
+    background-color:#8EA38C;
+    max-width: fit-content;
+    box-shadow: 0px 0px 4px #271F24;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+
+
+
+
+
